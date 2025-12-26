@@ -9,10 +9,10 @@ Program that tells you your car mile's per gallon.
 - Visual Studio
   
 ## Features
-- User input validation
-- Console-Based UI
+- User input validation.
+- Console-Based UI.
   
 ## What I Learned
-- Writing functions in C#
-- Debugging logic errors
-- Structuring small .NET applications
+- Writing functions in C#.
+- Debugging logic errors.
+- Structuring small .NET applications.
