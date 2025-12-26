@@ -1,4 +1,4 @@
-# Calculating-Fuel-Economy-Project
+# Calculating-Fuel-Economy-Program
 
 ## Description
 Program that tells you your car mile's per gallon.
